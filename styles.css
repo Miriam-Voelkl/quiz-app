@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    color: blue;
+    background-color: rgb(179, 115, 19);
+    padding: 2rem;
+    border-bottom: 2px solid blue;
+    margin: 0;
+    
+}
+
